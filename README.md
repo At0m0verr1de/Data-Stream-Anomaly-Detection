@@ -83,6 +83,10 @@ Run the main Python script to start the real-time anomaly detection system:
 python anomaly_detection.py
 ```
 
+### NOTE
+- The application will only be visible in full screen mode. In non full screen mode, some of the buttons and graphs are hidden.
+- Button colours and behaviours might be different for windows and macos, because of how matplotlib works with tkinter.
+
 **Controls:**
 
 - **Pause/Play Button:** Toggle the real-time animation between pause and play states.
