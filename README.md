@@ -152,7 +152,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact:
 
-**Your Name**
+**Aryan Bakshi**
 [f20210532@pilani.bits-pilani.ac.in](mailto:f20210532@pilani.bits-pilani.ac.in)
 [https://github.com/At0m0verr1de](https://github.com/At0m0verr1de)
 
