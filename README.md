@@ -155,7 +155,3 @@ For any inquiries or feedback, please contact:
 **Aryan Bakshi**
 [f20210532@pilani.bits-pilani.ac.in](mailto:f20210532@pilani.bits-pilani.ac.in)
 [https://github.com/At0m0verr1de](https://github.com/At0m0verr1de)
-
----
-
-**Note:** Replace placeholders like `yourusername`, `your.email@example.com`, and image paths with your actual GitHub username, email, and image file locations respectively.
